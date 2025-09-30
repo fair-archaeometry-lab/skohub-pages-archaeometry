@@ -2,6 +2,7 @@
 # see https://github.com/nextapps-de/flexsearch#tokenizer-prefix-search for options
 tokenizer: "full" # strict, forward, reverse, full
 custom_domain: "https://fair-archaeometry-lab.github.io/skohub-pages-archaeometry/"
+baseurl: "/skohub-pages-archaeometry"
 fail_on_validation: false
 searchableAttributes:
   - "prefLabel" # you should not delete this one
@@ -36,4 +37,6 @@ ui:
       font_style: "normal"
       font_weight: 700
       name: "ubuntu-v20-latin-700"
-
+vocabularies:
+  - name: "Colour Vocabulary"
+    url: "/colour/index.html"
