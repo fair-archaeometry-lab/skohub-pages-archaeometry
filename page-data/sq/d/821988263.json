@@ -1,1 +1,1 @@
-{"data":{"allConceptScheme":{"edges":[{"node":{"id":"https://fair-archaeometry-lab.github.io/skohub-pages-archaeometry/colour/","fields":{"languages":["en","de"]}}},{"node":{"id":"https://example.org/colour-with-hierarchy/","fields":{"languages":["en","de"]}}}]}}}
+{"data":{"allConceptScheme":{"edges":[{"node":{"id":"https://fair-archaeometry-lab.github.io/skohub-pages-archaeometry/colour/","fields":{"languages":["en","de"]}}},{"node":{"id":"https://fair-archaeometry-lab.github.io/skohub-pages-archaeometry/colour-hierarchy/","fields":{"languages":["en","de"]}}}]}}}
